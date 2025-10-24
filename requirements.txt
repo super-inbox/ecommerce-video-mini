@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# OpenAI API for GPT-4o-mini
+openai>=1.12.0
+
+# Azure Cognitive Services for TTS
+azure-cognitiveservices-speech>=1.34.0
+
+# Video processing
+moviepy>=1.0.3
+pillow>=10.0.0
+numpy>=1.24.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# Additional utilities
+python-dotenv>=1.0.0
