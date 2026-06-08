@@ -2,6 +2,8 @@
 
 Automatically generate 30-second marketing videos from website content using AI-powered storyboarding and text-to-speech.
 
+> Built by **[Curify](https://curify-ai.com)** — an AI-native platform for video translation, dubbing, subtitling, and visual content generation. This is one of Curify's open mini-tools. Learn more at **[curify-ai.com](https://curify-ai.com)**.
+
 ## Features
 
 - 🌐 **Website Scraping**: Extracts images and product descriptions from any URL
@@ -198,6 +200,18 @@ For large videos, you may need to:
 - Reduce image resolution
 - Limit number of images
 - Increase system swap space
+
+## About Curify
+
+This Website-to-Video generator is part of **[Curify](https://curify-ai.com)** — an
+AI-native platform that helps creators, educators, and media teams produce and
+localize video at scale, including [AI video dubbing](https://curify-ai.com/tools/video-dubbing),
+[bilingual subtitles](https://curify-ai.com/tools/bilingual-subtitles), and AI visual
+content generation.
+
+- 🌐 Website: **[curify-ai.com](https://curify-ai.com)**
+- 🛠️ Tools: **[curify-ai.com/tools](https://curify-ai.com/tools)**
+- 📝 Blog: **[curify-ai.com/blog](https://curify-ai.com/blog)**
 
 ## License
 
